@@ -1,37 +1,31 @@
-name: generate animation
+- 👋 Hi, I’m @MarcosFeitosa0408
+- 📜 I have a degree in Systems Development Analysis
+- 🔭I am currently a postgraduart MBA in Data Analysis with BI and Big Data UNICID ✨
+- 👀 I am interested in Data Analysis and Visualization 👀
+- 🌱 I’m currently learning Excel and interacting with Github 🐧
+- 💞 Ask me about Excel e Altomatic 🔧💻
+- 📫 You can reach me via email marcosfeitosa.dados@gmail.com 🖥
+- 📉 I am focused on helping people working with Data Analysis, here are the skills I have accomplished https//:linkedin.com/in/marcos-feitosa-472197193   
+- ⚡ I am interested in meeting Copilot to autimate my work
 
-on:
-  # run automatically every 24 hours
+  ![Imagem do WhatsApp de 2025-04-24 à(s) 01 00 07_925136b3](https://github.com/user-attachments/assets/56fdd22f-5b27-48f9-accc-f20861a0843e)
+
+MarcosFeitosa0408/MarcosFeitosa0408 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+I work in the areas of:
+# IT, Artificial Intelligence and Data Analysis
+
   schedule:
     - cron: "0 */24 * * *" 
   
-  # allows to manually run the job at any time
+  # Available to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
-    
+  # Perform work in Excel, Power BI, AI...
   
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
     
-  steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
   <picture align="center">
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosFeitosa0408/MarcosFeitosa0408/output/github-contribution-grid-snake-dark.svg">
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosFeitosa0408/MarcosFeitosa0408/output/github-contribution-grid-snake-dark.svg">
@@ -40,11 +34,5 @@ jobs:
           
           
   # push the content of <build_dir> to a branch
-  # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-  - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  # the content will be available at https://www.linkedin.com/in/marcos-feitosa-472197193/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav5), or as github page
+  
