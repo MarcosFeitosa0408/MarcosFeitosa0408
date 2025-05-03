@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcosFeitosa0408
-- 📜 I have a degree in Systems Analysis and Development
+- 📜I am a graduate in Systems Analysis and Development.
 - 🔭I am currently a postgraduart MBA in Data Analysis with BI and Big Data UNICID ✨
 - 👀 I am interested in Data Analysis and Visualization 👀
 - 🌱 I’m currently learning Excel and interacting with Github 🐧
