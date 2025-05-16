@@ -4,7 +4,7 @@
 - 👀 I am interested in Data Analysis and Visualization 👀
 - 🌱 I’m currently learning Excel and interacting with Github 🐧
 - 💞 Ask me about Excel e Altomatic 🔧💻
-- 📫 You can reach me via email marcosfeitosa.dados@gmail.com 🖥
+- 📫 You can reach me via email marcosfeitosa.analista@gmail.com 🖥
 - 📉 I am focused on helping people working with Data Analysis, here are the skills I have accomplished https//:linkedin.com/in/marcos-feitosa-472197193   
 - ⚡ I am interested in meeting Copilot to autimate my work
 
