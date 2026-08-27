@@ -105,7 +105,6 @@ Power BI • Data Analytics • Artificial Intelligence
 
 📚 Continuously improving my skills in **SQL, Power BI, Python, Analytics, and AI**
 
-https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202026-03-24%20201558.png
 ---
 
 ## 🔗 Let's Connect
