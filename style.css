@@ -1,24 +1,13 @@
 .tecnologia {
     position: relative;
-    width: 150px;
-    height: 150px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .tecnologia img {
     position: absolute;
-    width: 100px;
-    height: 100px;
-    object-fit: contain;
-    opacity: 0.3;
     z-index: 1;
 }
 
 .tecnologia span {
     position: relative;
     z-index: 2;
-    font-weight: bold;
-    color: white;
 }
