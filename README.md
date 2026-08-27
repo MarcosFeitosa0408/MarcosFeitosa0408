@@ -23,6 +23,15 @@ At **NerdCell**, I developed dashboards for a network of **8 stores**, with **18
 
 ## 🛠️ Technologies
 
+<div class="Tecnologia">
+    <img src="https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202025-09-01%20011219.png" alt="Imagem de fundo">
+
+    <div class="texto">
+        <h1>Meu Portfólio</h1>
+        <p>Analista de Dados</p>
+    </div>
+</div>
+
 **📊 BI & Data Visualization**  
 Power BI • DAX • KPIs • Dashboards • Data Visualization • Looker Studio
 
