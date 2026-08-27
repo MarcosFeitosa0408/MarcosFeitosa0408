@@ -21,14 +21,15 @@ At **NerdCell**, I developed dashboards for a network of **8 stores**, with **18
 
 ---
 
-#🛠️ Technologies#
+#🛠️ Technologies
 
 <p align="center">
-  <img src="[./NOME-DA-SUA-IMAGEM.png](https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202025-09-01%20011219.png)" alt="Tcnologia - Data Analyst" width="100%">
+  <img src="[./NOME-DA-SUA-IMAGEM.png](https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202025-09-01%20011219.png)" alt="Tcnologia - Analyst" width="100%">
 </p>
 
 
-   <strong>📊 BI & Data Visualization</strong>
+   #📊 BI & Data Visualization
+   
 Power BI • DAX • KPIs • Dashboards • Data Visualization • Looker Studio
 
 **🗄️ Data & SQL**  
