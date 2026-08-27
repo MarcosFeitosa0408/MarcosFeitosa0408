@@ -23,10 +23,11 @@ At **NerdCell**, I developed dashboards for a network of **8 stores**, with **18
 
 ## 🛠️ Technologies
 
-<div class="Tecnologia">
-    <img src="https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202025-09-01%20011219.png" alt="Imagem de fundo">
+<div class="tecnologia">
 
-    <div class="**📊 BI & Data Visualization**  
+    <img src="https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202025-09-01%20011219.png" alt="Power BI">
+
+    <span>**📊 BI & Data Visualization**  
 Power BI • DAX • KPIs • Dashboards • Data Visualization • Looker Studio
 
 **🗄️ Data & SQL**  
@@ -39,20 +40,16 @@ Python • Pandas • NumPy • EDA • Automation
 Advanced Excel • Power Query • Pivot Tables
 
 **🤖 AI & Tools**  
-AI applied to Data • Git • GitHub • VS Code">
-        <h1>Meu Portfólio</h1>
-        <p>Analista de Dados</p>
-    </div>
-</div>
----
-
+AI applied to Data • Git • GitHub • VS Code
 ## ⭐ Featured Projects
 
 ### 🏪 NerdCell — Sales Dashboard
 **Power BI • SQL • Excel • Power Query • Python**
 
-📊 8 stores • 18 KPIs • **+15% sales growth in 3 months**
+📊 8 stores • 18 KPIs • **+15% sales growth in 3 months**</span>
 
+</div>
+---
 ---
 
 ### 🏥 Health Analytics
