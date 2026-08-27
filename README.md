@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marcos Feitosa
 
 <p align="center">
-  <img src="https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202026-03-24%20201558.png" alt="Marcos Feitosa - Data Analyst" width="100%">
+  <img src="https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202026-03-26%20191949.png" alt="Marcos Feitosa - Data Analyst" width="100%">
 </p>
 
 ### 📊 Junior Data Analyst | Power BI • SQL • Python • Excel • ETL • BI
