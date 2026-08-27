@@ -1,14 +1,106 @@
-- 👋 Hi, I’m @MarcosFeitosa
-- 📜I am a formed in Systems Analysis and Development.
-- 🔭I am currently a postgraduarte MBA in Data Analysis with BI and Big Data UNICID ✨
-- 👀 I am interested in Data Analysis and Visualization 👀
-- 🌱 I’m currently learning Excel and interacting with Github 🐧
-- 💞 Ask me about Excel e Altomatic 🔧💻
-- 📫 You can reach me via email marcosfeitosa.analista@gmail.com 🖥
-- 📉 I am focused on helping people working with Data Analysis, here are the skills I have accomplished https//:linkedin.com/in/marcos-feitosa-472197193   
-- ⚡ I am interested in meeting Copilot to autimate my work
+# 👋 Hi, I'm Marcos Feitosa
 
-  ![Imagem do WhatsApp de 2025-04-24 à(s) 01 00 07_925136b3](https://github.com/user-attachments/assets/56fdd22f-5b27-48f9-accc-f20861a0843e)
+### 📊 Junior Data Analyst | Power BI • SQL • Python • Excel • ETL • BI
+
+📍 São Paulo, Brazil  
+🎯 Seeking opportunities as a **Junior Data Analyst / BI Analyst**
+
+---
+
+## 🚀 About Me
+
+I'm a **Data Analyst** with hands-on experience in **Business Intelligence and Data Analytics**.
+
+I work with **Power BI, SQL Server, Python, Excel, Power Query, DAX, ETL, and Data Quality**, transforming data into insights, KPIs, and solutions that support business decisions.
+
+At **NerdCell**, I developed dashboards for a network of **8 stores**, with **18 KPIs**, contributing to approximately **15% sales growth in 3 months**.
+
+---
+
+## 🛠️ Technologies
+
+**📊 BI & Data Visualization**  
+Power BI • DAX • KPIs • Dashboards • Data Visualization • Looker Studio
+
+**🗄️ Data & SQL**  
+SQL Server • T-SQL • ETL • Joins • CTEs • Window Functions • Data Modeling • Data Quality
+
+**🐍 Python**  
+Python • Pandas • NumPy • EDA • Automation
+
+**📗 Excel**  
+Advanced Excel • Power Query • Pivot Tables
+
+**🤖 AI & Tools**  
+AI applied to Data • Git • GitHub • VS Code
+
+---
+
+## ⭐ Featured Projects
+
+### 🏪 NerdCell — Sales Dashboard
+**Power BI • SQL • Excel • Power Query • Python**
+
+📊 8 stores • 18 KPIs • **+15% sales growth in 3 months**
+
+---
+
+### 🏥 Health Analytics
+**Python • Power BI • EDA • Linear Regression**
+
+📈 Medical cost analysis and executive dashboard development.
+
+---
+
+### 🗄️ SQL Server Clinic
+**SQL Server • T-SQL • ETL • Window Functions**
+
+🔎 Data modeling, analytical queries, and data transformation.
+
+---
+
+### 🛒 E-commerce Analytics
+**Python • Pandas • EDA • RFM**
+
+📊 Analysis of more than **100K orders** and customer behavior.
+
+---
+
+### 🧪 EDAP — Data Quality
+**Python • Pandas • SQL • Power BI • ETL • AI**
+
+🔎 Identification and treatment of data inconsistencies and quality issues.
+
+---
+
+## 🎓 Education
+
+🎓 **MBA in Data Analytics, Big Data & Business Intelligence** — UNICID  
+🎓 **Systems Analysis and Development** — UNICID
+
+---
+
+## 📜 Certifications
+
+Power BI • Data Analytics • Artificial Intelligence
+
+---
+
+## 📈 Currently
+
+🔎 Looking for opportunities as a **Junior Data Analyst / BI Analyst**
+
+🤖 Developing projects with **AI and Multi-Agent Systems applied to Data**
+
+📚 Continuously improving my skills in **SQL, Power BI, Python, Analytics, and AI**
+
+---
+
+## 🔗 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/marcosfeitosa-analista/)  
+🌐 [Portfolio](https://marcosfeitosa0408.github.io/portfolio/)  
+📧 **marcosfeitosa.analista@gmail.com**
 
 MarcosFeitosa0408/MarcosFeitosa0408 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
