@@ -24,7 +24,9 @@ At **NerdCell**, I developed dashboards for a network of **8 stores**, with **18
 #🛠️ Technologies
 
 <p align="center">
-  <img src="[./NOME-DA-SUA-IMAGEM.png](https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202025-09-01%20011219.png)" alt="Tcnologia - Analyst" width="100%">
+  <img src="https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202025-09-01%20011219.png" 
+       alt="Tecnologia - Analyst" 
+       width="100%">
 </p>
 
 
