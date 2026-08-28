@@ -126,8 +126,4 @@ You can click the Preview link to take a look at your changes.
    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosFeitosa0408/MarcosFeitosa0408/output/github-contribution-grid-snake.svg">
  </picture>
           
-  ## 🔗 Let's Connect
-  
-  # push the content of <build_dir> to a branch
-  # the content will be available at https://www.linkedin.com/in/marcos-feitosa-472197193/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav5), or as github page
-  
+
