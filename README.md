@@ -20,8 +20,8 @@ I work with **Power BI, SQL Server, Python, Excel, Power Query, DAX, ETL, and Da
 At **NerdCell**, I developed dashboards for a network of **8 stores**, with **18 KPIs**, contributing to approximately **15% sales growth in 3 months**.
 
 ---
-
-#🛠️ Technologies
+# 🛠️ Technologies
+---
 
 <p align="center">
   <img src="https://github.com/MarcosFeitosa0408/MarcosFeitosa0408/blob/main/Captura%20de%20tela%202025-09-01%20011219.png" 
@@ -30,7 +30,7 @@ At **NerdCell**, I developed dashboards for a network of **8 stores**, with **18
 </p>
 
 
-   #📊 BI & Data Visualization
+   ## 📊 BI & Data Visualization
    
 Power BI • DAX • KPIs • Dashboards • Data Visualization • Looker Studio
 
