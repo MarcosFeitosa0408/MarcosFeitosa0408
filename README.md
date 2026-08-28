@@ -117,7 +117,9 @@ MarcosFeitosa0408/MarcosFeitosa0408 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
   
-  # Perform work in Excel, Power BI, AI...
+  # 🏆 For your positioning, I would choose:
+
+  # 🚀 Transforming Data Into Insights. Transforming Insights Into Action.
   
     
   <picture align="center">
